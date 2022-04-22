@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElohegyiI/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElohegyiI/testing/issues"
+  },
+  "homepage": "https://github.com/ElohegyiI/testing#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
